@@ -11,8 +11,6 @@
 				left:50%;		
 				color : lightblue;
 			}
-		
-		
 		</style>
 	
 	<body>
